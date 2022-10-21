@@ -1,0 +1,11 @@
+
+
+ArrayList类代表的是集合类，集合是一种容器，与数组类似，不同的是集合的大小是不固定的
+
+通过创建ArrayList的对象表示得到一个容器，
+同时ArrayList提供了比数组更好用，更丰富的API（功能）给程序员使用
+
+1.创建ArrayList
+2.ArrayList的常用的API
+3.ArrayList存储自定义对象
+4.解决实际问题
